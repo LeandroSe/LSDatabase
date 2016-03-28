@@ -14,7 +14,7 @@
             android:value="database.db" />
         <meta-data
             android:name="LSDatabase_Version"
-            android:value="4" />
+            android:value="5" />
 
         <activity android:name=".MainActivity">
             <intent-filter>

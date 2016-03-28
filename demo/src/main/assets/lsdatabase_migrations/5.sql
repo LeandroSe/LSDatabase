@@ -1,0 +1,1 @@
+INSERT INTO `starting_balance` (`value`, `account_id`) VALUES (15, 1);
