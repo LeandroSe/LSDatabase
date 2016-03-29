@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LSDatabase.iml" filepath="$PROJECT_DIR$/LSDatabase.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lsdatabase/lsdatabase.iml" filepath="$PROJECT_DIR$/lsdatabase/lsdatabase.iml" />
     </modules>
   </component>
 </project>
